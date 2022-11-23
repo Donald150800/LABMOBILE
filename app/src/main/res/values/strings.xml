@@ -1,0 +1,6 @@
+<resources>
+    <string name="textButton">Ganti Teks Random</string>
+    <string name="texthello">Superman</string>
+    <string name="desc">Description</string>
+    <string name="app_name">Latihan Pertama</string>
+</resources>
